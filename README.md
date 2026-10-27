@@ -187,3 +187,11 @@ This demonstrates how polymorphism allows different product types to apply their
 The E-Commerce Product Management System demonstrates several Java programming concepts. Abstract classes provide a common structure for products, arrays store elements in a fixed-size collection, `ArrayList` manages a dynamic collection of products, `Scanner` receives user input, and inheritance enables code reuse.
 
 Finally, polymorphism allows different product types to apply different discount limits through the shared `hitungHargaAkhir()` method. Together, these concepts support a modular and extensible object-oriented application.
+
+
+## Class Diagram
+
+The following UML class diagram illustrates the structure of the E-Commerce Product Management System.
+
+![E-Commerce Class Diagram](classDiagram/class-diagram.png)
+
