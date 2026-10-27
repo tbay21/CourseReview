@@ -191,7 +191,6 @@ Finally, polymorphism allows different product types to apply different discount
 
 ## Class Diagram
 
-The following UML class diagram illustrates the structure of the E-Commerce Product Management System.
+![E-Commerce Class Diagram](Review/classDiagram/class-diagram.png)
 
-![E-Commerce Class Diagram](classDiagram/class-diagram.png)
 
